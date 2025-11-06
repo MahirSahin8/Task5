@@ -1,0 +1,27 @@
+.team-box {
+  border: 2px solid black;
+  border-radius: 8px;
+  width: 60%;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background-color: white;
+}
+.team-box ol {
+  list-style-type: upper-alpha; /* A, B, C... */
+  font-weight: bold;
+}
+
+.links {
+  width: 60%;
+  margin: 20px auto;
+  line-height: 1.8;
+  text-align: left;
+}
+.links a {
+  text-decoration: none;
+  color: blue;
+}
+.links a:hover {
+  color: red;
+  text-decoration: underline;
+}
