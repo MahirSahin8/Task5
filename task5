@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Author Page</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <h1>Author / Team</h1>
+
+  <div class="team-box">
+    <ol type="A">
+      <li><strong>Mahir Şahin – 244562</strong></li>
+      <li><strong>Aykut  Akanlı – 245123</strong></li>
+      <li><strong>Charaf Toumi – 246789</strong></li>
+    </ol>
+  </div>
+
+  <ul class="links">
+    <li><a href="https://github.com/mahirsahin/TEST2-Website" target="_blank">Repository Link</a></li>
+    <li><a href="assets/css/style.css" target="_blank">CSS File</a></li>
+    <li><a href="https://github.com/mahirsahin/TEST2-Website/network" target="_blank">Network Graph</a></li>
+  </ul>
+
+</body>
+</html>
